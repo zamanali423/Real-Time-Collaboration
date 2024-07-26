@@ -91,7 +91,7 @@ Defined project requirements and created a feature list.
 <br/>
 Designed the application architecture, separating the client and server.
 <br/>
-Chose technologies: React for the frontend, Node.js/Express for the backend, MongoDB for the database, and socket.io for real-time communication.
+<strong>Chose technologies:</strong> React for the frontend, Node.js/Express for the backend, MongoDB for the database, and socket.io for real-time communication.
 
 ### Backend Development:
 
